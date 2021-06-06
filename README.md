@@ -9,9 +9,9 @@ Necessary files to work with:
 First, you will need to set-up your virtual environment, in order to install all necessary python libraries used for this project (tensorflow/keras, etc.). Please follow the steps below for a guaranteed and successful setup.
 
  1. In the directory where the repository has been cloned, create a virtual environment. If you do not have it installed already, you would do:
-   a. pip3 install virtualenv
-   b. After installation, run: virtualenv <name_of_virtualenv>
-   c. Then, run: source <name_of_virtualenv>/bin/activate 
+   ##### a. pip3 install virtualenv
+   ##### b. After installation, run: virtualenv <name_of_virtualenv>
+   ##### c. Then, run: source <name_of_virtualenv>/bin/activate 
   
   ### Note: <name_of_virtualenv> is a name you choose. If having trouble, please follow the link below on how to setup in different machines: https://www.geeksforgeeks.org/python-virtual-environment/
   
