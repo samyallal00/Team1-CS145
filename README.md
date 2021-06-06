@@ -5,7 +5,7 @@ Necessary files to work with:
 1. pipeline.ipynb
 2. requirements.txt
 
-# Set-up your environment and Run code:
+# Set-up your environment and Run code (Linux/Unix environment):
 First, you will need to set-up your virtual environment, in order to install all necessary python libraries used for this project (tensorflow/keras, etc.). Please follow the steps below for a guaranteed and successful setup.
 
  1. In the directory where the repository has been cloned, create a virtual environment. If you do not have it installed already, you would do:
