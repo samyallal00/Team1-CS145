@@ -26,9 +26,9 @@ First, you will need to set-up your virtual environment, in order to install all
  #
  6. While running each cell, pay attention to the markdown headers where an explanation of each code cell is presented as titles and subtitles. The code is divided into multiple parts for data preparation, model selection etc.
  #
- 7. Finally, you have three options to run in "Part-5" at the end:
+ 7. Finally, you have three options to run in "Part-4" at the end:
    ##### a. Run one example of our best performing model to visualize the model's score and predictions on the state of california.
    ##### b. Reproduce the "Team1.csv" file that was submitted through Kaggle.
    ##### c. Run the LSTM model to visualize its score and predictions.
    
-##### Note: Part-5 (b) is the one that will reproduce our work submitted in Kaggle. Also, note that that cell will take up about 5-10mins to run given the complexity of the model and the data. At the end of the running cell, a file named "Team1.csv" will be created in your current directory where you can visualize the predictions.
+##### Note: Part-4 (b) is the one that will reproduce our work submitted in Kaggle. Also, note that that cell will take up about 5-10mins to run given the complexity of the model and the data. At the end of the running cell, a file named "Team1.csv" will be created in your current directory where you can visualize the predictions.
